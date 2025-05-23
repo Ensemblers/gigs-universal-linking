@@ -1,0 +1,11 @@
+{
+  "appIDs": [
+    "L9W56Z7WKG.com.ensemblers.gigs"
+  ],
+  "components": [
+    {
+      "/": "*",
+      "comment": "Gigs universal links"
+    }
+  ]
+}

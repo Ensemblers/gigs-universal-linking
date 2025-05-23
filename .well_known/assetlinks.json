@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ensemblers.gigs",
+      "sha256_cert_fingerprints":
+      ["9C:05:4B:0E:84:B7:64:6A:91:8A:87:24:1E:4D:5C:68:67:1A:57:C5:9A:8E:A1:C0:1C:D6:47:88:F5:97:03:D3"]
+    }
+  }
+]
