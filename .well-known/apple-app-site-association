@@ -1,0 +1,20 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "L9W56Z7WKG.com.ensemblers.gigs"
+                ],
+                "path": [
+                    "/",
+                    "*"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "L9W56Z7WKG.com.ensemblers.gigs"
+        ]
+    }
+}
